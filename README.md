@@ -1,13 +1,14 @@
-# devmetakeyapiai
-Chat webapp independiente conectado a Meta AI API. Input + botón enviar -> backend Firebase -> respuesta inteligente.
+# repostarterpack
 
-Webapp de chat independiente conectada a Meta AI (Llama 4). 
+Starter Pack base para proyectos web modernos con React + TS + Vite + Tailwind + Firebase Hosting.
 
-Arquitectura pensada para producción y escalable a app móvil.
+**Demo Live:** https://repostarterpack.web.app
 
-Stack:
-- Frontend: React + TypeScript + Zustand + Tailwind (diseño neón)
-- Backend: Firebase Functions + Firebase Auth (solo Gmail)
-- IA: Meta AI API / Llama API (API Key segura en backend)
-- Storage: Firestore + imágenes en base64 800px
+## 🚀 Stack
+- Frontend: React 18 + TypeScript + Vite
+- Estilos: Tailwind CSS + animaciones glow neón
+- Hosting: Firebase Hosting (CDN global edge)
+- CI/CD: GitHub Actions - deploy automático en push a main
+- Flujo: Cloud-first, multiplataforma
+
 
