@@ -10,5 +10,3 @@ Starter Pack base para proyectos web modernos con React + TS + Vite + Tailwind +
 - Hosting: Firebase Hosting (CDN global edge)
 - CI/CD: GitHub Actions - deploy automático en push a main
 - Flujo: Cloud-first, multiplataforma
-
-
