@@ -1,0 +1,6 @@
+
+# Secrets - NUNCA SUBIR
+**/*service*.json
+**/repostarterpack-*.json
+.env
+.env.local
