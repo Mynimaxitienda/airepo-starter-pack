@@ -1,21 +1,12 @@
 # repostarterpack
 
-Starter Pack base para proyectos web modernos - React + TypeScript + Tailwind + Vite con deploy automático a Firebase Hosting vía GitHub Actions. Diseño base Black & Orange Neon.
+Starter Pack base para proyectos web modernos con React + TS + Vite + Tailwind + Firebase Hosting.
 
-Arquitectura pensada para producción y escalable a app móvil.
+**Demo Live:** https://repostarterpack.web.app
 
-Links de Acceso:
-- Webapp: https://repostarterpack.web.app/
-- Repositorio: https://github.com/Mynimaxitienda/repostarterpack
-
-Stack:
-- Frontend: React + TypeScript + Zustand + Tailwind (diseño neón)
-- Backend: Firebase Functions + Firebase Auth (solo Gmail)
-- IA: Meta AI API / Llama API (API Key segura en backend)
-- Storage: Firestore + imágenes en base64 800px
-- Deploy: GitHub Actions -> Firebase Hosting automático
-
-Estado Ágil: Ver 
-README_AGIL.md y docs/
-
-
+## 🚀 Stack
+- Frontend: React 18 + TypeScript + Vite
+- Estilos: Tailwind CSS + animaciones glow neón
+- Hosting: Firebase Hosting (CDN global edge)
+- CI/CD: GitHub Actions - deploy automático en push a main
+- Flujo: Cloud-first, multiplataforma
