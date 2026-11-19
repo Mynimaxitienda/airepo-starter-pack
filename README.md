@@ -6,7 +6,8 @@ AIRepo Starter Pack is a free, open-source starter pack to help developers in La
 
 No more wasting weeks on setup. Clone, configure, and build with AI Agents already integrated.
 
-**Live Demo:** https://repostarterpack.web.app
+**Live Demo:** https://github.com/Mynimaxitienda/airepo-starter-pack
+
 **For:** Developers in Barranquilla, Colombia & Latin America learning to build with AI
 
 ---
